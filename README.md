@@ -1,7 +1,7 @@
 # EasyImputer
 Fills dataframes with missing data according to specific strategies
 ## Introduction
-Handling missing data is a common preprocessing step in machine learning projects. Sklearn's SimpleImputer is a popular tool for filling missing values, but there may be scenarios where you need more customization. This project introduces SımpleImputer, a flexible Python class that allows you to fill missing values in both numeric and categorical features using a variety of imputation strategies.
+Handling missing data is a common preprocessing step in machine learning projects. Sklearn's SimpleImputer is a popular tool for filling missing values, but there may be scenarios where you need more customization. This project introduces EasyImputer, a flexible Python class that allows you to fill missing values in both numeric and categorical features using a variety of imputation strategies.
 
 In this guide, I will explain how the EasyImputer works, the various parameters it supports, and how you can easily integrate it into your machine learning pipeline. We will also explore a step-by-step example to demonstrate its functionality.
 
